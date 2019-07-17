@@ -27,7 +27,7 @@ import (
 )
 
 const (
-	authServerURL  = "localhost:61432"
+	authServerURL  = "localhost:10087"
 	userEmailScope = "https://www.googleapis.com/auth/userinfo.email"
 )
 
